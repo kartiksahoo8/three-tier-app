@@ -1,2 +1,1 @@
-# three-tier-app
-three-tier-app
+# This is my three tier application
